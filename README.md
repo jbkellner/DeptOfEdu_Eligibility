@@ -1,4 +1,4 @@
-# DeptOfEdu_Eligibility
+# Department Of Education Eligibility Matrices
 
 R code for data transformation of Department of Education Eligibility Matrices for 2022-2024
 includes AANAPISI, ANNH, HSI, NASNTI, PBI, SIP, and MSEIP eligibility, and HBCU and TCCU
